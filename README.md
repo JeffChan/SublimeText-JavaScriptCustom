@@ -12,6 +12,6 @@ Custom JavaScript snippets for Sublime Text because the defaults suck
 }
 ```
 # What's different?
-1. `function () {
+1. ```function () {
 
-}` instead of `function() {}`
+}``` instead of `function() {}`
