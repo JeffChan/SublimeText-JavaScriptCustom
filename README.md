@@ -11,3 +11,7 @@ Custom JavaScript snippets for Sublime Text because the defaults suck
   "ignored_packages": ["JavaScript"]
 }
 ```
+# What's different?
+1. `function () {
+
+}` instead of `function() {}`
