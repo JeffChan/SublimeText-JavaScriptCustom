@@ -11,6 +11,7 @@ Custom JavaScript snippets for Sublime Text because the defaults suck
   "ignored_packages": ["JavaScript"]
 }
 ```
+
 ## What's different?
 
 ### Space after annoymous function 
